@@ -18,4 +18,4 @@
 
   ## **Theme **
     **Theme Settings**
-    ![theme settings]()
+    ![theme settings](./Recording.gif)
