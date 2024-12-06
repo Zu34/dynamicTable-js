@@ -16,6 +16,7 @@
   - Only one DOM update is performed, which is generally faster because DOM updates are computationally expensive.
   - Suitable for creating a moderate number of elements in one go, but doesn’t allow direct manipulation of individual elements during creation.
 
-  ## **Theme **
-    **Theme Settings**
-    ![theme settings](./Recording.gif)
+ # Dynamic Table
+
+## **Theme Settings**
+![theme settings](./Recording.gif)
